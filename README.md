@@ -6,7 +6,7 @@
 - [Making things with maths](https://www.youtube.com/watch?v=Zkx1aKv2z8o)
 - [Mapping imaginary citites](https://www.youtube.com/watch?v=Ic_5gRVTQ_k)
 - [Data as software as data](https://www.youtube.com/watch?v=LOMk8TD6l5k)
-- [Building the Software 2.0](Stack https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/)
+- [Building the Software 2.0 Stack](https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/)
 - [Simplicity is complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
 - [Boundaries](https://www.youtube.com/watch?v=eOYal8elnZk&feature=youtu.be)
 - [Human computation](https://www.youtube.com/watch?v=qlzM3zcd-lk)
